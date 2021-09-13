@@ -9,11 +9,10 @@ The Online Shopping is a console-based menu driven application that simulates on
 * Inputs is received using the java.util.Scanner class.
 * Log4j is implemented to log events to a file.
 * JUnit test is written to test some functionality
-## The Technologies and Environments Used in this Project are:
+## Technologies and Environments Used are :
 * Java
 * JDBC
 * MySql
-* Sql
 * Maven
 * Log4J
 * Junit
