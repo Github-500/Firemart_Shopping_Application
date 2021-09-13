@@ -21,6 +21,6 @@ The Online Shopping is a console-based menu driven application that simulates on
 * Download and Install the Eclipse Spring suite tool IDE to execute java code - https://www.eclipse.org/community/eclipse_newsletter/2018/february/springboot.php
 * Download and Install the MySQL workbench - https://dev.mysql.com/downloads/workbench/
 * Download and Install the Git Bash - https://git-scm.com/downloads
-* Clone into your local storage using this url - https://github.com/Github-500/Firemart_Shopping_Application.git
+* Clone this code into your local storage using this url - https://github.com/Github-500/Firemart_Shopping_Application.git
 ## Implementation
 Use Maven project environment for executing this code. Create a Database and Tables on MySQL workbench. After that, you need to use JDBC to connect to that created Database and Java application in order to manipulate(like send, retrieve etc.) the data from the Tables. As it is a console based application, you can directly execute the code using spring suite tool IDE. After executing code a console will appear which will guide you through the entire application steps, you can follow the steps and perform operations you want. 
